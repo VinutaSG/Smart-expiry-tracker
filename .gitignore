@@ -29,3 +29,8 @@ temp/
 *.pt
 best.pt
 yolov5su.pt
+**/node_modules/
+**/.expo/
+**/venv/
+**/.venv/
+**/__pycache__/
